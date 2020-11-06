@@ -23,8 +23,8 @@ Instalamos Corpus
 - Agregar preguntas y respuestas a la lista
 
 Comandos (Estos comandos se escriben mientras hablamos con el Chatbot)
-salir - Salir de Edward
-entrenamiento - Agrega preguntas y respuestas 
+- salir - Salir de Edward
+- entrenamiento - Agrega preguntas y respuestas 
 
 De todos modos en la misma aplicacion sale los comandos 
 
