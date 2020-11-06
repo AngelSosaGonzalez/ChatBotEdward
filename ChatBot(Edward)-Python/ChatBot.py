@@ -45,7 +45,7 @@ def conve():
             preg = input('\n¿Cual es tu pregunta? \n')
             resp = input('¿Cual es tu repuesta? \n')
 
-            ent = open('C:/Users/Edgar/AppData/Local/Programs/Python/Python38/Lib/site-packages/chatterbot_corpus/data/spanish/conversations.yml', 'a')
+            ent = open('aqui va la ruta donde tengas a conversations.yml', 'a')
             ent.write('\n- - ' + preg)
             ent.write('\n  - ' + resp.title())
             ent.close()
