@@ -18,4 +18,14 @@ Instalamos Corpus
 # ¡¡¡Ah programar!!!
 
 Actualizacion de la version 2.0
--Salir del buble inicial
+
+- Salir del buble inicial
+- Agregar preguntas y respuestas a la lista
+
+Comandos (Estos comandos se escriben mientras hablamos con el Chatbot)
+salir - Salir de Edward
+entrenamiento - Agrega preguntas y respuestas 
+
+De todos modos en la misma aplicacion sale los comandos 
+
+# Espero y los disfruten
