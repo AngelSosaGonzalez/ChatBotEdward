@@ -17,3 +17,5 @@ Instalamos Corpus
   
 # ¡¡¡Ah programar!!!
 
+Actualizacion de la version 2.0
+-Salir del buble inicial
