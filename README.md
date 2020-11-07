@@ -29,3 +29,5 @@ Comandos (Estos comandos se escriben mientras hablamos con el Chatbot)
 De todos modos en la misma aplicacion sale los comandos 
 
 # Espero y los disfruten
+
+# Creditos: https://www.youtube.com/watch?v=kABGJtEL2No&t=8s
